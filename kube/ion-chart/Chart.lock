@@ -4,9 +4,9 @@ dependencies:
   version: 6.0.0
 - name: redis
   repository: https://charts.bitnami.com/bitnami
-  version: 12.1.1
+  version: 12.7.5
 - name: etcd
   repository: https://charts.bitnami.com/bitnami
   version: 5.3.0
-digest: sha256:1b06fc598ee5560ceea12e5df1ba1de53afbb974922d8ba4bc85a331ca94b8d2
-generated: "2020-12-01T11:34:29.450279158Z"
+digest: sha256:018d03d148f23b49de33b39e10649593d18a1dd120741ae83a1fc5e84f15a784
+generated: "2021-02-22T19:18:12.480362238Z"
